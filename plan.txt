@@ -1,0 +1,8 @@
+[+] Setup the environment using npm init
+[+] we need some dependencies for this project
+    -depenedencies
+    express, nodemon, esm, env
+[+] Create a server in server.js file
+[+] Than create a folder name config and than we will import the data from .env file 
+and from here we will export the main server.js file
+[+]
